@@ -1,8 +1,10 @@
-#Welcome!   ¡Bienvenido!
+<h1 align="center">
+Welcome!   ¡Bienvenido!
+</h1>
 
-##EN/ES
+### EN/ES
 
-##About me:     Sobre mi:
+## About me:     Sobre mi:
 
 I'm a programmer from Argentina, passionate about understandig how things work. Currently learning Python and Django.
 
